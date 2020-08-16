@@ -1,0 +1,16 @@
+html, body { height: 100%; font-family: 'NanumSquare'; font-weight: 600;}
+body {
+    margin: 0;
+    font-family: "NanumSquare";
+    height: 100%;
+    min-height: 100%;
+    position: relative;
+    padding-bottom: 100px;}
+.btn {
+    box-shadow: 0px 0px 1px 1px #00000033;
+    margin: 0.5em 0.5em 0.5em 0em;
+}
+
+a, a:hover {
+    color:#d64e3f;
+}
